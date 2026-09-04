@@ -1,0 +1,22 @@
+{
+  "fanGearLinks": [
+    {
+      "title": "Team Hoodie",
+      "url": "https://fanstore.com/hoodie"
+    },
+    {
+      "title": "Team Hat",
+      "url": "https://fanstore.com/hat"
+    }
+  ],
+  "volunteerLinks": [
+    {
+      "title": "Concessions Signup",
+      "url": "https://signupgenius.com/go/12345"
+    }
+  ],
+  "announcements": [
+    "Game moved to Friday",
+    "New Fan Gear available"
+  ]
+}
